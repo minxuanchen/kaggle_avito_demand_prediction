@@ -15,7 +15,7 @@
 #### Various Base models were built using newly processed data 
 * a. Neural Network 
 * b. XGBoost 
-* c. Ridge (L1 regularization) 
+* c. Ridge (L2 regularization) 
 * d. Recurrent Neural Network
       - note that (f) does not include the same data preprocessing as the other base models (all preprocessing is included in the same file) 
 
